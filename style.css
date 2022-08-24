@@ -30,7 +30,7 @@ h1 {
   grid-column: 1 / 5;
 }
 .block2 {
-  background-color: crimson;
+  background-color: rgb(40, 202, 18);
   grid-row-start: 7;
   grid-column-end: span 4;
 }
